@@ -2,6 +2,7 @@
 Written by MJ-Vintage github.com/repairmen
 #### For security purposes only !
 
+##python required
 ## Installation:
 
     $ pipenv install
