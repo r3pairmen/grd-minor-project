@@ -1,7 +1,5 @@
-# DARK FANTASY HACK TOOL
-Written by [@ritvikb99](https://github.com/ritvikb99) and [@CodesWhite](https://github.com/codeswhite) and [@meuzgebre](https://github.com/meuzgebre)
-
-Requirements file idea given by [@Swastik2561](https://github.com/Swastik2561)
+# MJ-Vintage 
+Written by MJ-Vintage github.com/repairmen
 #### For security purposes only !
 
 ## Installation:
